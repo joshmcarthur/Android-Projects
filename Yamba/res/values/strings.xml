@@ -2,4 +2,7 @@
 <resources>
     <string name="hello">Hello World, StatusActivity!</string>
     <string name="app_name">Yamba</string>
+    <string name="titleStatusUpdate">Status Update</string>
+    <string name="hintStatus">Please enter your status message.</string>
+    <string name="buttonUpdate">Update</string>
 </resources>
