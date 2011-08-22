@@ -1,3 +1,4 @@
-*.apk
-*.dex
-*.ap_
+**/*.apk
+**/*.dex
+**/*.ap_
+**/*.class
